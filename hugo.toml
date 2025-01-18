@@ -1,0 +1,51 @@
+baseURL = 'https://mintyse.github.io/'
+languageCode = "lt"
+DefaultContentLanguage = "lt"
+title = 'Mano eilės apie meilę'
+theme = 'anatole'
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "Mano eilės ir ne tik"
+author = "Ruslanas Simonaitis"
+description = "Mėgstantiems eiles apie meilę..."
+profilePicture = "img/profile.jpg"
+reversepagetitle = true
+mainSections = []
+fullPostContent = true
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/ruslanas.simonaitis"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "Youtube"
+url = "https://www.youtube.com/watch?v=uH0dZ_4Ntkk"
+
+# [[params.socialIcons]]
+# icon = "fas fa-envelope"
+# title = "e-mail"
+# url = "mailto:mail@example.com"
+
+[menu]
+
+[[menu.main]]
+name = "Pradžia"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Eilės"
+weight = 200
+identifier = "eiles"
+url = "/eiles/"
+
+[[menu.main]]
+name = "S.M.S."
+weight = 300
+identifier = "sms"
+url = "/sms/"
