@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mintyse.github.io/eiles/</loc>
+    <lastmod>2026-09-19T18:12:44+03:00</lastmod>
+  </url><url>
+    <loc>https://mintyse.github.io/eiles/tavo-lietus-ant-mano-sirdies/</loc>
+    <lastmod>2026-09-19T18:12:44+03:00</lastmod>
+  </url><url>
     <loc>https://mintyse.github.io/tags/eilerasciai/</loc>
     <lastmod>2025-03-02T02:04:22+02:00</lastmod>
   </url><url>
@@ -19,9 +25,6 @@
   </url><url>
     <loc>https://mintyse.github.io/tags/</loc>
     <lastmod>2025-03-02T02:04:22+02:00</lastmod>
-  </url><url>
-    <loc>https://mintyse.github.io/eiles/</loc>
-    <lastmod>2025-01-18T19:21:03+02:00</lastmod>
   </url><url>
     <loc>https://mintyse.github.io/eiles/leisk-man-taves-paklaust/</loc>
     <lastmod>2025-01-18T19:21:03+02:00</lastmod>
